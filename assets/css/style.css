@@ -366,6 +366,8 @@ body {
 
 .shape { display: none; }
 
+
+
 .hero {
   background-repeat: no-repeat, no-repeat;
   background-position: bottom left, top right;
@@ -400,6 +402,7 @@ body {
 #home-page{
 
   background-color: rgb(242, 251, 225);
+  
 }
 
 
